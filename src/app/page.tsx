@@ -103,7 +103,7 @@ export default function Wall() {
         <aside className="hidden lg:block col-span-1">
           <Card className="shadow-md">
             <CardContent className="flex flex-col items-center space-y-4 py-6">
-              <img src="/profile.jpg" alt="Profile" className="w-24 h-24 rounded-full" />
+              <img src="/face.jpg" alt="Profile" className="w-24 h-24 rounded-full" />
               <div className="text-center">
                 <h2 className="text-lg font-semibold text-gray-800">Tore Efurd</h2>
                 <p className="text-sm text-gray-500">wall</p>
